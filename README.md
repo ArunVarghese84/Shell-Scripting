@@ -1,2 +1,2 @@
 # Shell-Scripting
-Project and assignments while learing Linux Systems, Shell Scripting
+Project and assignments in Linux Systems, Shell Scripting
